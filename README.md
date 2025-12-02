@@ -28,3 +28,17 @@ Can be extended with difficulty levels (Easy, Medium, Hard)
 C Language
 
 Standard Library (stdlib.h, stdio.h, time.h)
+
+---
+
+## 📊 OD Automator - Task Automation Workflow
+
+For detailed information about the Organizational Development (OD) Automator task automation workflow, including flowcharts highlighting key steps that enhance efficiency and reduce manual interventions, see:
+
+📄 **[OD Automator Workflow Flowchart](OD_AUTOMATOR_WORKFLOW.md)**
+
+This documentation includes:
+- Complete workflow flowchart with Mermaid diagrams
+- Key steps breakdown for each phase
+- Manual intervention reduction points
+- Efficiency metrics and improvements
